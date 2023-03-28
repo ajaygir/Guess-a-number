@@ -83,7 +83,7 @@ button:hover,
         background-image: url('gradient-numerology-background_23-2150051043.avif');
             
             background-size: 100%;
-            
+            background-repeat: no-repeat;
             height: fit-content;
 
            
