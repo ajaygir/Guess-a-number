@@ -77,7 +77,18 @@ button:hover,
     button,
     .restart{
         width: 100%;
+        
     }
+    body{
+        background-image: url('gradient-numerology-background_23-2150051043.avif');
+            
+            background-size: 100%;
+            background-repeat: repeat;
+            height: fit-content;
+
+           
+    }
+    
 
 
 }
